@@ -1,0 +1,117 @@
+﻿ID,SubCompanyID,SubCompanyName,LocationID,BranchCode,LocationName
+11,2,Vung 1,4,1,Ha Noi
+21,2,Vung 1,4,2,Ha Noi
+31,2,Vung 1,4,3,Ha Noi
+41,2,Vung 1,4,4,Ha Noi
+51,2,Vung 1,4,5,Ha Noi
+61,2,Vung 1,4,6,Ha Noi
+71,2,Vung 1,4,7,Ha Noi
+81,2,Vung 1,4,8,Ha Noi
+91,2,Vung 1,4,9,Ha Noi
+101,2,Vung 1,4,10,Ha Noi
+111,2,Vung 1,4,11,Ha Noi
+151,42,Vung 5,8,1,Ho Chi Minh
+161,42,Vung 5,8,2,Ho Chi Minh
+171,42,Vung 5,8,3,Ho Chi Minh
+181,42,Vung 5,8,4,Ho Chi Minh
+191,42,Vung 5,8,5,Ho Chi Minh
+201,42,Vung 5,8,6,Ho Chi Minh
+271,12,Vung 2,240,0,Bac Giang
+291,12,Vung 2,241,1,Bac Ninh
+311,12,Vung 2,26,0,Cao Bang
+351,12,Vung 2,321,0,Hung Yen
+371,12,Vung 2,20,0,Lao Cai
+391,12,Vung 2,25,0,Lang Son
+411,12,Vung 2,210,0,Phu Tho
+451,12,Vung 2,280,0,Thai Nguyen
+471,12,Vung 2,27,0,Tuyen Quang
+491,12,Vung 2,211,0,Vinh Phuc
+511,12,Vung 2,29,0,Yen Bai
+531,22,Vung 3,230,0,Dien Bien
+551,22,Vung 3,218,0,Hoa Binh
+571,22,Vung 3,351,0,Ha Nam
+611,22,Vung 3,39,0,Ha Tinh
+631,22,Vung 3,38,0,Nghe An
+651,22,Vung 3,30,0,Ninh Binh
+671,22,Vung 3,350,0,Nam Dinh
+691,22,Vung 3,22,0,Son La
+711,22,Vung 3,36,0,Thai Binh
+731,22,Vung 3,37,0,Thanh Hoa
+751,32,Vung 4,56,0,Binh Dinh
+771,32,Vung 4,500,0,Dak Lak
+791,32,Vung 4,59,0,Gia Lai
+811,32,Vung 4,54,0,HUE
+831,32,Vung 4,58,0,Nha Trang
+851,32,Vung 4,60,0,Kon Tum
+871,32,Vung 4,57,0,Phu Yen
+891,32,Vung 4,52,0,Quang Binh
+911,32,Vung 4,55,0,Quang Ngai
+931,32,Vung 4,510,0,Quang Nam
+951,32,Vung 4,53,0,Quang Tri
+991,52,Vung 6,651,0,Binh Phuoc
+1011,52,Vung 6,62,0,Binh Thuan
+1031,52,Vung 6,61,1,Dong Nai
+1051,52,Vung 6,63,0,Lam Dong
+1071,52,Vung 6,68,0,Ninh Thuan
+1091,52,Vung 6,66,0,Tay Ninh
+1111,52,Vung 6,64,0,Vung Tau
+1131,62,Vung 7,76,0,An Giang
+1151,62,Vung 7,781,0,Bac Lieu
+1171,62,Vung 7,75,0,Ben Tre
+1191,62,Vung 7,780,0,Ca Mau
+1211,62,Vung 7,71,0,Can Tho
+1231,62,Vung 7,67,0,Dong Thap
+1251,62,Vung 7,711,0,Hau Giang
+1271,62,Vung 7,77,0,Kien Giang
+1291,62,Vung 7,72,0,Long An
+1311,62,Vung 7,79,0,Soc Trang
+1331,62,Vung 7,73,0,Tien Giang
+1351,62,Vung 7,74,0,Tra Vinh
+1371,62,Vung 7,70,0,Vinh Long
+1511,42,Vung 5,8,7,Ho Chi Minh
+1531,42,Vung 5,8,8,Ho Chi Minh
+1541,42,Vung 5,8,9,Ho Chi Minh
+1551,42,Vung 5,8,10,Ho Chi Minh
+1561,42,Vung 5,8,11,Ho Chi Minh
+1571,2,Vung 1,4,12,Ha Noi
+1581,2,Vung 1,4,13,Ha Noi
+1591,2,Vung 1,4,14,Ha Noi
+1601,2,Vung 1,4,98,Ha Noi
+1611,42,Vung 5,8,98,Ho Chi Minh
+1621,42,Vung 5,8,12,Ho Chi Minh
+1631,42,Vung 5,8,13,Ho Chi Minh
+1641,42,Vung 5,8,14,Ho Chi Minh
+1651,42,Vung 5,8,15,Ho Chi Minh
+1661,42,Vung 5,8,16,Ho Chi Minh
+1671,22,Vung 3,31,1,Hai Phong
+1681,22,Vung 3,31,2,Hai Phong
+1691,22,Vung 3,31,3,Hai Phong
+1701,22,Vung 3,31,4,Hai Phong
+1711,22,Vung 3,31,5,Hai Phong
+1721,52,Vung 6,65,1,Binh Duong
+1731,52,Vung 6,65,2,Binh Duong
+1741,52,Vung 6,65,3,Binh Duong
+1742,22,Vung 3,31,6,Hai Phong
+1743,52,Vung 6,61,2,Dong Nai
+1744,52,Vung 6,61,3,Dong Nai
+1745,52,Vung 6,61,4,Dong Nai
+1746,12,Vung 2,33,1,Quang Ninh
+1747,12,Vung 2,33,2,Quang Ninh
+1748,12,Vung 2,33,3,Quang Ninh
+1749,22,Vung 3,320,1,Hai Duong
+1750,22,Vung 3,320,2,Hai Duong
+1751,22,Vung 3,320,3,Hai Duong
+1752,22,Vung 3,320,4,Hai Duong
+1753,22,Vung 3,320,5,Hai Duong
+1754,52,Vung 6,61,5,Dong Nai
+1755,52,Vung 6,61,6,Dong Nai
+1756,52,Vung 6,61,7,Dong Nai
+1757,32,Vung 4,511,1,Da Nang
+1758,32,Vung 4,511,2,Da Nang
+1759,32,Vung 4,511,3,Da Nang
+1760,12,Vung 2,241,2,Bac Ninh
+1761,12,Vung 2,240,1,Bac Giang
+1762,12,Vung 2,240,2,Bac Giang
+4343,32,Vung 4,58,1,Nha Trang
+4353,32,Vung 4,58,2,Nha Trang
+4363,32,Vung 4,58,3,Nha Trang
